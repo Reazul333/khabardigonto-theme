@@ -9,7 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
-Khabardigonto is a lightweight, responsive Bengali news/magazine WordPress theme. Inspired by Prothom Alo, it features a customizable homepage, dark mode, breaking news ticker, category blocks, author archive, opinion layout, and more.
+Khabardigonto is a lightweight, responsive Bengali news/magazine WordPress theme. It features a customizable homepage, dark mode, breaking news ticker, category blocks, author archive, opinion layout, and more.
 
 == Features ==
 * Breaking News Marquee
